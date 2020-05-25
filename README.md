@@ -17,13 +17,13 @@ This project is in alpha state and highly unstable.
 
 ## Usage
 
-# Windows
+### Windows
 `communch.exe --task name_of_task:param1:param2:param3<...>`
 
-# Linux
+### Linux
 `./communch --task name_of_task:param1:param2:param3<...>`
 
-# Task list
+## Task list
 | *Task* | *Param 1* | *Param 2* | *Param 3* |
 | ----------- | ----------- |
 | get_in_range | `[all | ...]` | A commune's 5-digit INSEE code, or the degree coordinates | Scanning range in kilometers |
