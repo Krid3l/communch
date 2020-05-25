@@ -36,7 +36,7 @@ This project is in alpha state and highly unstable.
 
 ### 0.2 α
 - multiple tasks per program run
-- filtering with one user-chosen criteria per tasks
+- custom filtering tasks with one user-chosen criteria per task
 
 ### 0.3 α
 - usage of any .csv data set instead of only the one bundled with the program
